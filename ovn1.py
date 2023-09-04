@@ -1,11 +1,11 @@
 """Olles repeterad"""
 
 def addera(term1, term2):
-    """Adderar termerna a och b och returnerar summan"""
+    """Adderar termerna term1 och term2 och returnerar summan"""
     return term1 + term2 
 
 def subtrahera(term1, term2):
-    """Subtraherar termerna a och b och returnerar differensen"""
+    """Subtraherar termerna term1 och term2 och returnerar differensen"""
     return term1 - term2
 
 print("5 + 7 = {addera(5, 7)} (utan f)")
